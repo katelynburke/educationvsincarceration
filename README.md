@@ -11,7 +11,7 @@ Years 2001 - 2016
   Incarceration : https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
 
 
-Initial Plan : 
+<strong>Initial Plan : </strong>
 
   1) Explore data and see how they can be effectively joined
   2) Initial cleaning and formatting, if necessary, create a few different export views
