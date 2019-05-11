@@ -2,6 +2,15 @@ Education vs. Incarceration
 
 Original Project Outline : https://docs.google.com/document/d/1yoV9Om13pNlZ7z-tJWw4U50ojcsdv0SD1hnJyEIf-nY/edit?usp=sharing
 
+Data: 
+
+Years 2001 - 2016
+
+  Education : https://www.kaggle.com/noriuk/us-education-datasets-unification-project
+
+  Incarceration : https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
+
+
 Initial Plan : 
 
   1) Explore data and see how they can be effectively joined
