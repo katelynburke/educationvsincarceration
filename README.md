@@ -27,3 +27,6 @@ Years 2001 - 2016
   <li> Push data into SQL Database </li>
   <li> Create some queries and SQL Tables for quick review later </li>
 </ol>
+
+<h3>ETL Projectt Final Report:</h3>
+https://docs.google.com/document/d/1F5uW7d8O88-X3vW-rHrkhmYFJNhQY3eVxmjDJWpgX4M/edit?usp=sharing
