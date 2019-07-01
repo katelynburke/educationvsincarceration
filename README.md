@@ -3,7 +3,12 @@
 
 ### Topic:
 Is there a correlation between the incarceration rate and academic achievement by state (USA) between the years of 2001-2016?
-  
+ 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/katelynburke/educationvsincarceration/blob/master/ed_Images/infographic.png">
+</p>
+
+
 ### *Extract*
 - Decided to analyze the data and draw conclusions by comparing the average assessment scores in math and reading to the crime totals and prisoner counts in each state
 - Noticed that several years of NAEP test score data were missing from the education data
