@@ -7,7 +7,7 @@ Is there a correlation between the incarceration rate and academic achievement b
 <p align="center">
   <img width="580" height="400" src="https://github.com/katelynburke/educationvsincarceration/blob/master/ed_Images/infographic.png">
 </p>
-*Image from http://latinalista.com/columns/blogbeat-columns/education-vs-incarceration*
+Image from http://latinalista.com/columns/blogbeat-columns/education-vs-incarceration
 
 ### *Extract*
 - Decided to analyze the data and draw conclusions by comparing the average assessment scores in math and reading to the crime totals and prisoner counts in each state
