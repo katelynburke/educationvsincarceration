@@ -4,7 +4,7 @@
 ### Topic:
 Is there a correlation between the incarceration rate and academic achievement by state (USA) between the years of 2001-2016?
   
-### Extract
+### *Extract*
 - Decided to analyze the data and draw conclusions by comparing the average assessment scores in math and reading to the crime totals and prisoner counts in each state
 - Noticed that several years of NAEP test score data were missing from the education data
 - The dataset also included the total expenditure in each state and the expenditure for education instruction
@@ -12,11 +12,11 @@ Is there a correlation between the incarceration rate and academic achievement b
 
 #### Data Sources: 
 - Years 2001 - 2016
-- U.S. Education Dataset - Unification Project:https://www.kaggle.com/noriuk/us-education-datasets-unification-project
+- U.S. Education Dataset - Unification Project: https://www.kaggle.com/noriuk/us-education-datasets-unification-project
   - For more on how Math and Reading Scores are assessed via NAEP : https://nces.ed.gov/nationsreportcard/ </li>
-- Crime and Incarceration in the United States:https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
+- Crime and Incarceration in the United States: https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
 
-### Transform
+### *Transform*
 #### Transforming the Education Data: 
 - Read in the education CSV file to preview it
 - Filtered the data frame to include the columns we wanted to use (State, Year, Total Expenditure, Instruction Expenditure, 4th Grade Enrollment, 8th Grade Enrollment, Total Student Enrollment, 4th Average Math/Reading Scores, 8th Average Math/Reading Scores)
@@ -37,7 +37,7 @@ Is there a correlation between the incarceration rate and academic achievement b
 - Merged the education and incarceration data frames on the state and year 
 - Output the final report in different formats - CSV and JSON
 
-### Load
+### *Load*
 - Connected to the local SQL database - which is a relational database (stores data in tables and rows)
 - Checked for the tables that were created in SQL using: engine.table_names() 
 - Used Pandas to load CSV and JSON converted dataframes into the database
