@@ -1,7 +1,6 @@
-<h1>Education vs. Incarceration</h1>
+<h1>Education vs. Incarceration</h1> 
 
-<h2>Original Project Outline:</h2> 
-https://docs.google.com/document/d/1yoV9Om13pNlZ7z-tJWw4U50ojcsdv0SD1hnJyEIf-nY/edit?usp=sharing
+
 
 <h2>Data:</h2> 
 
