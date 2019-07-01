@@ -1,4 +1,5 @@
 ## Education vs. Incarceration in the United States
+Utilizing the ETL procedure of extracting, transforming, and loading data
 
 ### Topic:
 Is there a correlation between the incarceration rate and academic achievement by state (USA) between the years of 2001-2016? 
@@ -8,11 +9,12 @@ Is there a correlation between the incarceration rate and academic achievement b
 Years 2001 - 2016
 
   <ul>
-  U.S. Education Dataset - Unification Project: https://www.kaggle.com/noriuk/us-education-datasets-unification-project
+  U.S. Education Dataset - Unification Project:https://www.kaggle.com/noriuk/us-education-datasets-unification-project
   <ul> 
     <li> For more on how Math and Reading Scores are assessed via NAEP : https://nces.ed.gov/nationsreportcard/ </li>
   </ul>
-  Crime and Incarceration in the United States : https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
+  
+  Crime and Incarceration in the United States:https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
   
 
 <h2>Initial Plan:</h2> 
